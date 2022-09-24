@@ -4,7 +4,7 @@
   },
   "renovate": {
     "packageRules": [{
-      "matchCurrentVersion": "^=",
+      "matchCurrentVersion": "/^=/",
       "enabled": false
     }]
   }
